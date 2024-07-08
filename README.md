@@ -5,9 +5,8 @@ Team Name: Hackend
 Challenge Name: Challenge 4 (Watcher Knight)
 
 What is the percentage of the challenge you have completed?
-100%
+90%
 
-What are the requirements you have implemented?
 Requirements:
 
 User Registration and Authentication (100%)
@@ -27,10 +26,8 @@ Server Logging (100%)
 Added logging functionality to log events on the server.
 Web3 Integration (100%)
 
-Utilized Web3 technology for enhanced security and transparency.
-Votes are recorded on the Ethereum blockchain.
 Did you complete any bonus points?
-Yes
+no
 
 What did you implement extra?
 Extra:
@@ -42,4 +39,3 @@ Setup Instructions
 Prerequisites
 Node.js
 MongoDB
-An Ethereum node URL (Infura)
